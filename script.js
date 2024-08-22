@@ -23,24 +23,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "COMPETITIVO",
-                afirmacao: "Afirmação do texto botão 2"
+                afirmacao: "Você é uma pessoa que se esforça para  sempre melhorar, tenta entender os metas e procura sempre estar um passo a frente de seu adversário."
             },
             {
-                texto: "texto botão 2",
-                afirmacao: "Afirmação do texto botão 2"
+                texto: "CASUAL",
+                afirmacao: "Você é uma pessoa que gosta de se divertir ao máximo, seja sozinho ou com amigos, sempre tenta extrair o máximo de diversão  independente do objetivo proposto do jogo."
             }
         ]
     },
     {
-        enunciado: "Enunciado 3",
+        enunciado: "você é um jogador de FPS ou geral? ",
         alternativas: [
             {
-                texto: "texto botão 1",
-                afirmacao: "Afirmação do texto botão 1"
+                texto: "FPS",
+                afirmacao: "Você prefere os jogos com mais ação e tiro buscando sempre a ambição ser o melhor e chegar no topo."
             },
             {
-                texto: "texto botão 2",
-                afirmacao: "Afirmação do texto botão 2"
+                texto: "Geral",
+                afirmacao: "Você é um jogador que gosta de aproveitar jogos com bastante histórias, sempre se divertindo e aproveitando o máximo."
             }
         ]
     },
